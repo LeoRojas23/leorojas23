@@ -1,6 +1,6 @@
 <h1 align="start">Hi there👋, I'm Leo Rojas!</h1>
 
-I’m a Frontend developer🚀
+Frontend developer🚀
 
 <h4>Language and frameworks</h4>
 <img src="https://github.com/user-attachments/assets/6c2f93be-558e-4828-9bc9-0a00083c41cb" />
